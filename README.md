@@ -51,9 +51,9 @@ or via bower:
     https://cdn.jsdelivr.net/gh/stevermeister/ngWig@master/dist/css/ng-wig.css
 
 
-[Demo] (http://stevermeister.github.io/ngWig/demo/)
+[Demo](https://stevermeister.github.io/ngWig/demo/ "Demo")
 
-[![Screenshot] (http://stevermeister.github.io/ngWig/images/ng-wig-demo.png)](http://stevermeister.github.io/ngWig/demo/)
+![Screenshot](https://stevermeister.github.io/ngWig/images/ng-wig-demo.png)
 
 
 ## Examples
